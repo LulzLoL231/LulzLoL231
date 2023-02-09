@@ -5,3 +5,5 @@
 
 And Yes - i love DigitalOcean.  
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=2223290eee36&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+![Metrics](/github-metrics.svg)
